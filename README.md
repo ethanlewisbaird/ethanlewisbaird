@@ -2,7 +2,7 @@
 My name is Ethan from Manchester UK welcome to my GitHub profile.
 I'm currently working on scRNAseq analysis of Xenopus tadpole spinal cord during regrowth after amputation.
 I'm currently learning some more advanced scRNAseq techniques while also learning the basics of Git and Bash.
-Reach me via LinkedIn www.linkedin.com/in/ethan-baird-b46a7717b or drop me an email ethanlewbaird@gmail.com :)
+Reach me via LinkedIn www.linkedin.com/in/ethanlewisbaird or drop me an email ethanlewbaird@gmail.com :)
 <!--
 **ethanlewisbaird/ethanlewisbaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
